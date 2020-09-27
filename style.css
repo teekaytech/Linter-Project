@@ -1,0 +1,6 @@
+.head {
+  color: blue;
+}
+.head:hover {
+  color: red;
+}
